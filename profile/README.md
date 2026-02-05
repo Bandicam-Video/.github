@@ -14,7 +14,7 @@
 ## 📥 Installation Instructions for Windows
 1. Download and extract the archive  
 2. Run **Open setup.exe**  
-3. Open **Bandicam RecordMax**  
+3. Open **Bandicam**  
 4. Configure your recording options before starting  
 
 ---
